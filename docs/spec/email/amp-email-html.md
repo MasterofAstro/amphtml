@@ -26,7 +26,7 @@ allowed in AMP for Email.
 -   [`colgroup`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup)
 -   [`data`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/data)
 -   [`datalist`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
--   [`dd`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
+-   [`dd`](https://elementtutorials.com/ref/dd.html)
 -   [`del`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del)
 -   [`details`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 -   [`dfn`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dfn)
